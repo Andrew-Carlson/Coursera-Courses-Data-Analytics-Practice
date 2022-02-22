@@ -1,2 +1,2 @@
-# Coursera Course: Python for Data Science, AI, and Development
+# Coursera Courses: Data Analytics Practice
 
